@@ -1,7 +1,7 @@
 /**
  * Style variables
  */
-$base-color:           #DBDBDB !default;
+$base-color:           rgb(206, 205, 195) !default;
 $primary-color:        #a1fc8f !default;
 $text-color:           $base-color !default;
 $placeholder-color:    $base-color !default;
@@ -9,7 +9,7 @@ $link-color:           $base-color !default;
 $border:               dashed 1px rgba(219,219,219,0.9) !default;
 $selection-background: rgba(219,219,219,0.99) !default;
 $selection-text:       #000 !default;
-$background-color:     #000 !default;
+$background-color:     rgb(16, 15, 15) !default;
 
 
 @import "base";
