@@ -22,7 +22,7 @@ I spent the next few years reading articles, watching GDC videos and reading [Th
 
 [linkedin]: https://www.linkedin.com/in/michaelcraigwilson/
 [rovio]: https://www.theatlantic.com/technology/archive/2011/03/how-rovio-fought-off-bankruptcy-to-make-angry-birds/72250/
-[stardew]: https://www.gamasutra.com/view/news/267563/The_4_years_of_selfimposed_crunch_that_went_into_Stardew_Valley.php
+[stardew]: https://www.gamedeveloper.com/business/the-4-years-of-self-imposed-crunch-that-went-into-i-stardew-valley-i-
 [grim]: https://www.fandom.com/articles/grim-fandango-20-years-on
 [express]: https://www.gamasutra.com/view/feature/3862/the_last_express_revisiting_an_.php
 [fleck]: https://www.wired.com/2015/02/photo-sharing-app-can-get-likes-kim-kardashian/
