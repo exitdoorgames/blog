@@ -24,7 +24,7 @@ I spent the next few years reading articles, watching GDC videos and reading [Th
 [rovio]: https://www.theatlantic.com/technology/archive/2011/03/how-rovio-fought-off-bankruptcy-to-make-angry-birds/72250/
 [stardew]: https://www.gamedeveloper.com/business/the-4-years-of-self-imposed-crunch-that-went-into-i-stardew-valley-i-
 [grim]: https://www.fandom.com/articles/grim-fandango-20-years-on
-[express]: https://www.gamasutra.com/view/feature/3862/the_last_express_revisiting_an_.php
+[express]: https://www.gamedeveloper.com/design/the-last-express-revisiting-an-unsung-classic
 [fleck]: https://www.wired.com/2015/02/photo-sharing-app-can-get-likes-kim-kardashian/
 [rando]: https://techcrunch.com/2014/03/22/rip-rando/
 [ustwo]: https://ustwo.com/blog/introducing-rando/
